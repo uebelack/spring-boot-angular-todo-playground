@@ -1,0 +1,5 @@
+.idea
+backend/bin
+backend/target
+frontend/.vscode
+frontend/node_modules
